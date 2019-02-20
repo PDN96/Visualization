@@ -1,3 +1,3 @@
 My visulization experiments with vtk and fury.
-Two codes to visualize surfaces, using scipy and vtkDelaunay
-Generate directed arrows using vtk
+Two codes visualize surfaces, using scipy and vtkDelaunay and one
+generates directed arrows using vtk
